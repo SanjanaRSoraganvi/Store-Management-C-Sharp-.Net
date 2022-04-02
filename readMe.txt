@@ -2,10 +2,6 @@ Họ và tên: Vũ Thanh Hải
 
 Mã Số Sinh Viên : 1712412
 
-Email: vuthanhhai2302@gmail.com
-
-	1712412@student.hcmus.edu.vn
-
 Các chức năng làm được:
 
 - Xem/Thêm/Xóa/Sửa : Nhân Viên, Khách Hàng.
